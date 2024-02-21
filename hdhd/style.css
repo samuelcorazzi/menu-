@@ -1,0 +1,18 @@
+:root{
+    --cor_botao: red;
+    --cor_fundo: pink;
+}
+
+body {
+    background-color:blue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 200px;
+}
+
+#botao {
+    margin: 10px 5px;
+    color: brown;
+}

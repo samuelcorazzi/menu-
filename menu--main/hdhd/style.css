@@ -1,0 +1,36 @@
+:root{
+    --cor_botao: rgba(34, 0, 228, 0.397);
+    --cor_fundo: rgb(68, 56, 58);
+}
+
+body{
+    background-color: rgb(0, 217, 255);
+}
+
+section {
+    background-color: var(--cor_fundo);
+    color: var(--cor_letra);
+    height: 500px;
+    text-align: center;
+    border-radius: 35px;
+}
+
+h1 {
+    font-size: 85px;
+    text-align: center;
+}
+
+#botao {
+    background-color: var(--cor_botao);
+    font-size: 35px;
+}
+
+#botao1 {
+    background-color: var(--cor_botao);
+    font-size: 35px;
+}
+
+#botao2 {
+    background-color: var(--cor_botao);
+    font-size: 35px;
+}
